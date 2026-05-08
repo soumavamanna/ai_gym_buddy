@@ -1,0 +1,15 @@
+opencv-python
+mediapipe
+numpy
+google-generativeai
+langchain
+pypdf
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+scikit-learn
+pandas
+plotly
+pymongo
+streamlit
